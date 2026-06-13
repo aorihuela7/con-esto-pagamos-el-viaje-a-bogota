@@ -1,0 +1,17 @@
+{
+ "Optimista (tus niveles: AA92 A85 M75)": {
+  "any": 37.2,
+  "ret": 3088.45,
+  "net": 2848.45
+ },
+ "Mercado (prob = 1/cuota, lo que cree la casa)": {
+  "any": 5.3,
+  "ret": 237.4,
+  "net": -2.6
+ },
+ "Realista (promedio de los dos)": {
+  "any": 15.6,
+  "ret": 922.7,
+  "net": 682.7
+ }
+}
